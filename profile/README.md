@@ -1,3 +1,5 @@
+# NOTE This is not my main github account follow https://github.com/SleepTheGod
+
 ## Hi there 👋
 
 Welcome to my GitHub! I'm an experienced hacker and exploit developer, specializing in web application security, automation, and reverse engineering. My focus is on pushing the boundaries of what's possible through innovative solutions and efficient code.
