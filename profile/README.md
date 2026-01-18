@@ -1,5 +1,5 @@
 # NOTE This is not my main github account follow https://github.com/SleepTheGod
-
+# NOTE : I am not on twitter / x blame christopher stanley for that one for wrongfully blacklisting 600+ of my accounts
 # Note I do not use twitter anymore hmu on t.me/SleepTheGod 
 
 
