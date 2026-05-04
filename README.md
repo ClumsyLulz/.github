@@ -69,3 +69,7 @@ All rights are expressly reserved by the author. Failure to enforce any provisio
 
 **By accessing, cloning, forking, downloading, or otherwise using this repository, you acknowledge this warning and agree to comply with all restrictions stated herein.**
 
+# NOTE This is not my main github account follow https://github.com/SleepTheGod
+# NOTE : TsGh.org
+# NOTE : I do not have a twitter account hmu on t.me/SleepTheGod 
+# My only discord Account is ClumsyBeats anyone else claiming they are me is not
