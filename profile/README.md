@@ -1,5 +1,3 @@
-Here's an updated version of your legal notice with improved clarity, formatting, and professional polish:
-
 ---
 
 # LEGAL NOTICE – INTELLECTUAL PROPERTY & RESTRICTED USE
