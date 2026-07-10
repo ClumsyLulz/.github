@@ -17,7 +17,7 @@ This repository and all contents contained herein constitute the exclusive intel
 | **Author / Owner** | SleepTheGod (also known as ClumsyLulz) |
 | **Legal Name** | Taylor Christian Newsome |
 | **Contact** | sleepraps@gmail.com |
-| **Website** | [Pl0x.org](https://Pl0x.org) |
+| **Proof of work** | [Github](https://github.com/SleepTheGod) |
 | **Partners** | [Lateralus.dev](https://Lateralus.dev) · [ProjectPM](https://en.wikipedia.org/wiki/Barrett_Brown) |
 
 ---
