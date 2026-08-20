@@ -1,148 +1,146 @@
+# 👋 Hi, I'm ClumsyLulz
+
+**Taylor Christian Newsome** | Security Researcher & Developer
 # NOTE MY ONLY TELEGRAM ACCOUNT IS t.me/SleepTheGod I am not the gta leak account smh
 
-# LEGAL NOTICE – INTELLECTUAL PROPERTY & RESTRICTED USE
-
-**NOTICE FOR SECURITY RESEARCHERS AND ETHICAL HACKERS**
-
-This repository and all contents contained herein constitute the exclusive intellectual property of the undersigned author. Access is granted solely for the purposes of review and research. This work is **not** open source, **not** freeware, and **not** licensed for unauthorized use, reproduction, or distribution.
+[![Email](https://img.shields.io/badge/Email-sleepraps@gmail.com-red?style=flat-square&logo=gmail)](mailto:sleepraps@gmail.com)
+[![Website](https://img.shields.io/badge/Website-pl0x.org-blue?style=flat-square&logo=google-chrome)](https://pl0x.org)
+[![GitHub](https://img.shields.io/badge/GitHub-SleepTheGod-181717?style=flat-square&logo=github)](https://github.com/SleepTheGod)
 
 ---
 
-## OWNER INFORMATION
+## 🎯 About Me
 
-| Field | Details |
-|-------|---------|
-| **Author / Owner** | SleepTheGod (also known as ClumsyLulz) |
-| **Legal Name** | Taylor Christian Newsome |
-| **Contact** | sleepraps@gmail.com |
-| **Proof of work** | [Github](https://github.com/SleepTheGod) |
-| **Partners** | [Lateralus.dev](https://Lateralus.dev) · [ProjectPM](https://en.wikipedia.org/wiki/Barrett_Brown) |
+- 🔍 Security Researcher & Ethical Hacker
+- 💻 Bug Bounty Hunter on HackerOne, Bugcrowd, and YesWeHack
+- 🛡️ Passionate about finding vulnerabilities and securing systems
+- 🎵 Music producer & beatmaker
+- 🧠 Lifelong learner, constantly exploring new technologies
 
 ---
 
-## CERTIFICATIONS & ACHIEVEMENTS
+## 🏆 CTF Achievements
 
-| Certification | Issuer | CEU Hours | Certificate ID |
-|---------------|--------|-----------|----------------|
-| Linux 100: Fundamentals | TCM Security | 2 | cert_ytffmth5 |
-| Practical Help Desk | TCM Security | 17 | cert_5h42fbd0 |
-| Programming 100: Fundamentals | TCM Security | 3 | cert_sb3tggyg |
-| AI 100: Fundamentals | TCM Security | 3 | cert_fmvvkpc |
-| Practical Security Fundamentals | TCM Security | 9 | cert_j1vhyvsp |
-| Soft Skills for the Job Market | TCM Security | 7 | cert_38v7qr8c |
+### TechSquad Inc. - Capture The Flag Competition
 
-**Additional Achievement**
-
-- **Industrial Intrusion CTF Challenge** – TryHackMe  
-  Rank: 2,551st | Points: 15 | Date: 30 June 2025
-
-*All certifications issued by TCM Security. Instructors include Heath M. Adams (Founder & CEO) and Andrew Bellini.*
+| Metric | Result |
+|--------|--------|
+| **Position** | 🥇 **5th Place** |
+| **Challenges Solved** | 126/126 (100%) |
+| **Total Points** | 79,100 |
+| **Total Teams** | 589 |
+| **Team Name** | TechSquad Inc. |
+| **Username** | ClumsyLulz |
+| **Name** | Taylor Christian Newsome |
+| **CTF Date** | 15/05/2026 - 20/05/2026 |
 
 ---
 
-## PROFESSIONAL PROFILES & CONTACT
+## 🔒 Vulnerability Disclosures
 
-| Platform | Handle / URL |
-|----------|--------------|
-| LinkedIn | [linkedin.com/in/clumsy](https://linkedin.com/in/clumsy/) |
-| GitHub | [github.com/SleepTheGod](https://github.com/SleepTheGod) |
-| Telegram | [t.me/SleepTheGod](https://t.me/SleepTheGod) |
-| HackerOne | [hackerone.com/DBMS](https://hackerone.com/DBMS) |
-| Bugcrowd | [bugcrowd.com/Sleep](https://bugcrowd.com/Sleep) |
-| SoundCloud | [soundcloud.com/DoXeD](https://soundcloud.com/DoXeD) |
-| YouTube | [youtube.com/Stripped](https://youtube.com/Stripped) |
-| CodePen | [codepen.io/ClumsyLulz](https://codepen.io/ClumsyLulz) |
-| Facebook | [facebook.com/Hostiles](https://facebook.com/Hostiles) |
+### Microsoft MSRC - Security Update Acknowledgements
 
-**Verification Notice** – The sole official Discord account is `ClumsyBeats`. The author maintains **no** Twitter/X account. Any account claiming otherwise is an impersonator.
+| Date | Description | Status |
+|------|-------------|--------|
+| Apr 30, 2023 | **Taylor Christian Newsome** with GitHub | Online Services |
+
+### IBM PSIRT - Confirmed Vulnerability
+
+IBM Product Security Incident Response Team (PSIRT) has confirmed a vulnerability reported by me and is actively working on remediation.
+
+> *"Our product team has performed analysis on the reported issue and has confirmed the vulnerability. We are working with the affected product/website team(s) to develop a plan for remediation."*
+>
+> — IBM PSIRT Operations
+
+**Reference:** CIN0008672
 
 ---
 
-## SUPPORT & DONATIONS
+## 🛠️ Certifications
 
-Financial contributions are accepted as a gesture of appreciation for continued research and development.
+| Course | Provider | CEU |
+|--------|----------|-----|
+| Linux 100: Fundamentals | TCM Security | 2 |
+| Practical Help Desk | TCM Security | 17 |
+| Programming 100: Fundamentals | TCM Security | 3 |
+| AI 100: Fundamentals | TCM Security | 3 |
+| Practical Security Fundamentals | TCM Security | 9 |
+| Soft Skills for the Job Market | TCM Security | 7 |
 
-**Cryptocurrency**
+### 🏅 TryHackMe - Industrial Intrusion
+- **Rank:** #2,551
+- **Points:** 15
+- **Completed:** 30 June 2025
+- **Instructors:** Heath Adams (TCM Security) & Andrew Bellini
 
-| Asset | Address |
-|-------|---------|
-| **ETH** | `0x80c96d2b2a0419418b75d54496d998823c48c563` |
+---
+
+## 🌐 Connect With Me
+
+| Platform | Profile |
+|----------|---------|
+| **GitHub (Primary)** | [@ClumsyLulz](https://github.com/ClumsyLulz) |
+| **GitHub (Secondary)** | [@SleepTheGod](https://github.com/SleepTheGod) |
+| **LinkedIn** | [in/clumsy](https://linkedin.com/in/clumsy) |
+| **HackerOne** | [@DBMS](https://hackerone.com/DBMS) |
+| **Bugcrowd** | [@Sleep](https://bugcrowd.com/Sleep) |
+| **Hack The Box** | [profile](https://profile.hackthebox.com/profile/019cde8b-dba8-7146-948f-7b73127bb0a6) |
+| **YesWeHack** | [@ClumsyLulz](https://yeswehack.com/hunters/ClumsyLulz) |
+| **Telegram** | [@SleepTheGod](https://t.me/SleepTheGod) |
+| **SoundCloud** | [DoXeD](https://soundcloud.com/DoXeD) |
+| **YouTube** | [Stripped](https://youtube.com/Stripped) |
+| **CodePen** | [ClumsyLulz](https://codepen.io/ClumsyLulz) |
+| **Facebook** | [Hostiles](https://facebook.com/Hostiles) |
+| **Discord** | ClumsyBeats |
+
+> ⚠️ **Note:** I have NO Twitter/X account. Any claiming otherwise are impersonators.
+
+---
+
+## 💰 Support My Research
+
+### Cryptocurrency
+
+| Currency | Address |
+|----------|---------|
 | **BTC** | `bc1qrprmanzgaermswvts62yrztzzqwhcfr8aqp4ly` |
+| **ETH** | `0x80c96d2b2a0419418b75d54496d998823c48c563` |
 | **SOL** | `6WJin474yfmPartRJnc4ekxNnMz8M7eWnHEpCcTNxujr` |
 
-**Payment Platforms**
+### Other Payment Methods
 
-- [Cash App](https://cash.app/$ClumsyLulz)
-- [PayPal](https://paypal.me/TNEWSLMAO)
-- [Venmo](https://venmo.com/Vulnerability)
-
----
-
-## SCOPE OF PROTECTED WORKS
-
-The protected intellectual property includes, but is not limited to:
-
-- Source code in any programming language
-- Algorithms, logic, structures, and workflows
-- Binaries, compiled artifacts, and build outputs
-- Documentation, comments, snippets, and excerpts
-- Transformations, ports, rewrites, and refactors
-- Outputs generated by or derived from this work
-- Any use in automated systems, including artificial intelligence or machine learning models
-
-All materials are protected under applicable copyright law, intellectual property law, and international treaties including the Berne Convention.
+- 💳 [Cash App](https://cash.app/$ClumsyLulz) - `$ClumsyLulz`
+- 💳 [PayPal](https://paypal.me/TNEWSLMAO) - `@TNEWSLMAO`
+- 💳 [Venmo](https://venmo.com/Vulnerability) - `@Vulnerability`
 
 ---
 
-## LICENSE RESTRICTIONS
+## 📜 Legal Notice
 
-**No license is granted, either expressly or implicitly.**
+© 2026 Taylor Christian Newsome (ClumsyLulz). All Rights Reserved.
 
-You are expressly **prohibited** from:
+This repository and its contents are **not open source**. No license is granted to copy, modify, distribute, or use this work without explicit written permission.
 
-- Copying, reproducing, modifying, or distributing this work
-- Claiming authorship or removing attribution
-- Rebrading or presenting this work as your own
-- Creating derivative works in whole or in part
-- Using this work for commercial or non-commercial purposes
-- Including this work in datasets, benchmarks, or AI training systems
-- Removing, altering, or obscuring copyright or authorship notices
+### 🚫 Prohibited Uses
 
-**Access to this repository does not constitute permission. Review does not imply license.**
+- ❌ Copying, reproducing, or distributing
+- ❌ Creating derivative works
+- ❌ Commercial or non-commercial use
+- ❌ AI/ML training or dataset inclusion
+- ❌ Removing or altering attribution
 
----
-
-## LEGAL CONSEQUENCES OF UNAUTHORIZED USE
-
-Any unauthorized use, reproduction, misrepresentation of authorship, or removal of notices constitutes:
-
-- Copyright infringement
-- Misappropriation of intellectual property
-- False designation of origin
-
-Such actions may result in civil liability, statutory damages, injunctive relief, and recovery of attorneys' fees and costs to the fullest extent permitted by law.
+Access does **not** imply permission. Review does **not** imply license.
 
 ---
 
-## EVIDENTIARY INTENT
+## 🤝 Responsible Disclosure
 
-This document is published to:
+Found a vulnerability? Please report it responsibly.
 
-- Establish clear authorship and ownership
-- Provide notice of restrictions prior to access or use
-- Defeat any claim of innocent infringement or implied license
-- Serve as supporting evidence in court or arbitration proceedings
+📧 **Contact:** sleepraps@gmail.com
 
 ---
 
-## RESERVATION OF RIGHTS
-
-All rights are expressly reserved by the author. Failure to enforce any provision of this notice does not constitute a waiver of any rights.
-
----
-
-## ACKNOWLEDGMENT OF TERMS
-
-By accessing, cloning, forking, downloading, scanning, or otherwise interacting with this repository, you acknowledge this notice and agree to comply with all restrictions stated herein. No clickwrap agreement or pop-up acknowledgment is required for these terms to take effect.
-
----
+```console
+$ exit
+ClumsyLulz out.
